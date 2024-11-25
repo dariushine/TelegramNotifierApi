@@ -1,0 +1,6 @@
+@TelegramNotifierApi_HostAddress = http://localhost:5064
+
+POST {{TelegramNotifierApi_HostAddress}}/notification/
+Accept: application/json
+
+###
